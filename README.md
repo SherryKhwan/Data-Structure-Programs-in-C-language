@@ -24,7 +24,7 @@ Program to:
 17. Stacked linked list.
 18. Queue linked list.
 19. Open hashing.
-20. Open hashing woth pointer array.
+20. Open hashing with pointer array.
 21. Close hashing with linear.
 22. Binary search tree.
 23. Infix to postfix.
