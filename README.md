@@ -7,7 +7,7 @@ Program to:
 
 1. Selection sorting Algorthm
 2. Bubble sorting Algorithm.
-3. Linear (Sequencial) Searching Algorithm.
+3. Insert sorting Algorithm.
 4. Binary Searching Algorithm.
 5. Swap Algorithm.
 6. Consecutive swap Algorithm.
