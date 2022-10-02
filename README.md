@@ -1,6 +1,6 @@
 # Data-Structure-Programs-in-C-language
 
-This repositry will help students in their course of "DATA STRUCTURES AND ALGORITHMS". This repositry contains the code of the following C language programs:
+This repositry will help students in their course of "DATA STRUCTURES AND ALGORITHMS". If you need any help regarding these algorithms or if any of the given code is not working properly or if you want to add an algo/ code, do mail me at shaheryarkhan724@gmail.com. This repositry contains the code of the following C language programs:
 
 Program to:
 ==========
