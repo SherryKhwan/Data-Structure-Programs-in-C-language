@@ -1,15 +1,11 @@
 #include <stdio.h>
-// #include <string.h>
 #include <stdlib.h>
-// #include <stdbool.h>
-//linked list
 
 struct node{
   int data;
   struct node *next;
 };
 struct node *start = NULL;
-
 
 void insert(){
   struct node *temp;
@@ -31,7 +27,6 @@ void insert(){
 
 void print(){
   struct node * temp;
-  
   temp = (struct node*)malloc(sizeof(struct node));
   if (start == NULL){
     printf("List is Empty. ");
@@ -83,6 +78,3 @@ void del(){
   print();
 
 }
-
-
-
